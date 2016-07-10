@@ -7,7 +7,7 @@
 <body>
 <? php 
 ?>
-<h1>Submitted Information</h1>
+<h1>Submitted Info</h1>
 <p>
 Name: <?
 Dojo Location:
